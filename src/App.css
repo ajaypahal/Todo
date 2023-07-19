@@ -1,0 +1,23 @@
+/* .container{
+  display: flex;
+  width: 100%; 
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.img{
+  display: block;
+}
+
+input{ 
+  width: 4rem;
+}
+button{
+  width: 4rem;
+} */
+.main-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
